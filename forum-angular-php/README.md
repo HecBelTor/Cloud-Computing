@@ -14,9 +14,3 @@ Afin de build le projet,nous lancons la commande ng build. les buils seront enre
 
 4/  RUNNING UNIT TESTS
 Lancer la commande "ng test" pour éxécuter l'unit test via Karma.
-
-5/ RUNNING END-TO-END TESTS
-run "ng e2e" pour éxécuter les end-to-end tests via Portractor.
-
-6/POUR PLUS D'INSTRUCTIONS:
-  Pour avoir d'autres informations sur le build, le runing services et le fonctionnment, vous pourrez nous contacter directement
